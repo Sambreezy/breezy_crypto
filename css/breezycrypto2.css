@@ -1,0 +1,163 @@
+/*CSS*/
+.captcha {
+    text-align: center;
+}
+.captcha input {
+    width: 65px;
+}
+.btn-success {
+    text-align: center;
+}
+.btn-info {
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid lightseagreen;
+}
+#nameid {
+    color: red;
+}
+#emailid {
+    color: red;
+}
+#phoneid {
+    color: red;
+}
+#noInput {
+    color: black;
+}
+#captchaid {
+    color: red;
+}
+#input {
+    text-align: center;
+}
+#center {
+    margin-left: 43.5%;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #1070e0;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+[class~="odd"] {
+    color: #666;
+}
+[class~="odd"]:hover {
+    text-decoration: none;
+}
+button[title=english] {
+    margin-right: -45px;
+}
+.dropdown {
+    margin-right: 170px;
+    margin-top: 3px;
+}
+li[type=glyphicon] {
+    list-style-type: none;
+    padding-left: 0px;
+}
+.btn-lg {
+    margin-right: 15px;
+}
+button[title=usd] {
+    margin-right: -117px;
+}
+.container-fluid {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 5px;
+}
+#black {
+    color:#666;
+    padding-left:0 !important;
+    margin-left: 40px;
+}
+#black1 {
+    color: #666;
+    padding-left:0 !important;
+    margin-left:-125px !important;
+}
+#black2 {
+    color:#666;
+    padding-left:0 !important;
+    margin-left: -155px !important;
+
+}
+#black3 {
+    color:#666;
+    padding-left:0 !important;
+    margin-left: -200px !important;
+}
+.navbar-brand b{
+    font-size: 1.6em;
+    color: black;
+}
+.form {
+    margin-left: 10px;
+}
+.input-group {
+    width: 240px;
+}
+.image {
+    text-align: center;
+}
+.image1 {
+    padding-top: 15px;
+}
+.image h3 {
+    padding-top: 40px;
+}
+.watch {
+    margin-left: -170px;
+}
+#left {
+    margin-right: 5px;
+}
+.glyphicon-arrow-right {
+    color: #1070e0;
+}
+button[id=paint] {
+    color: #1070e0;
+}
+.paint1 {
+    color: #1070e0;
+}
+.table b {
+    font-size: 1.1em !important;
+}
+#tint {
+    color: #1070e0;
+}
+#tint1 {
+    color: #1070e0;
+}
+#tint2 {
+    color: #009e73;
+}
+.table th, td {
+    font-size: 1.1em;
+}
+.mycolor {
+    color: #1070e0;
+}
+.mycolors {
+    color: #009e73;
+}
+.myfont {
+    font-weight: bolder;
+    font-size: 1.2em;
+}
